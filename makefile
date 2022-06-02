@@ -127,7 +127,7 @@ BINDIR   := $(ROOTDIR)/bin
 DATADIR  := $(ROOTDIR)/data
 OUTDIR   := $(ROOTDIR)/out
 INCDIRS  += $(ROOTDIR)/inc
-INCDIRS  += ../../hurry/inc
+# INCDIRS  += ../../hurry/inc
 LIBDIRS  += $(ROOTDIR)/lib
 
 
